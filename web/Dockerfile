@@ -14,4 +14,4 @@ COPY ./personal-security-checklist.yml ./public/
 
 EXPOSE 5173
 
-CMD ["yarn", "dev", "--host", "10.0.20.30"]
+CMD ["yarn", "dev"]
